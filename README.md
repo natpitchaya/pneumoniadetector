@@ -1,4 +1,4 @@
-# pneumoniadetector
+# Pneumonia Detector
 Pneumonia Detector for CS50
 
 My project is to distinguish whether the chest X-ray picture uploaded has a pneumonia infection (could be viral or bacterial) or a normal chest X-ray. Users can access using the web application. The model was built using Tensorflow, Jinja2, Flask, Bootstrap4, and HTML.
